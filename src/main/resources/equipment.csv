@@ -1,0 +1,7 @@
+TYPE,NAME,WEIGHT_KG,PRICE_GOLD,PARAM
+WEAPON,Steel Sword,3.2,75,18
+ARMOR,Chainmail Armor,11.5,180,35
+HELMET,Iron Helmet,2.4,45,10
+SHIELD,Kite Shield,6.8,90,22
+BOOTS,Leather Boots,1.6,25,6
+WEAPON,Hunting Dagger,0.9,30,9
